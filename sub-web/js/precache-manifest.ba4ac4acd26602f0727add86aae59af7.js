@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/_redirects"
   },
   {
-    "revision": "84fe3ff463070e8e8678",
+    "revision": "70e498b63da73cd502e5",
     "url": "/css/app.6a5dab7f.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/element-icons.732389de.ttf"
   },
   {
-    "revision": "67152c3f0c733f55d21cd99bb96a7ebd",
+    "revision": "53b9bc2ade6c45cbf45c183f4143fd4d",
     "url": "/index.html"
   },
   {
-    "revision": "84fe3ff463070e8e8678",
-    "url": "/js/app.133fed5e.js"
+    "revision": "70e498b63da73cd502e5",
+    "url": "/js/app.8e00bb3e.js"
   },
   {
-    "revision": "add0ee92891c4d1edacc",
-    "url": "/js/chunk-652681bc.6b33e66f.js"
+    "revision": "ac7937ad5c833cc5c39b",
+    "url": "/js/chunk-652681bc.8acb2ade.js"
   },
   {
     "revision": "e40946e79bd24847f01d",
